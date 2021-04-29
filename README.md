@@ -13,3 +13,6 @@ pip install -r requirements.txt
 ```
 python google_calendar.py
 ```
+## Troubleshooting
+
+* Sometimes Google Calendar access token might expire. If the script does not print URL to visit and authenticate, then you can manually delete `token.json` and restart the script.
