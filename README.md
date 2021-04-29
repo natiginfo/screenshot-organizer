@@ -11,7 +11,7 @@ pip install -r requirements.txt
 3. Set default screenshot location in the script.
 4. Run the script:
 ```
-python google_calendar.py
+python screenshot_organizer.py
 ```
 ## Troubleshooting
 
