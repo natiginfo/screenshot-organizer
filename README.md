@@ -1,6 +1,8 @@
 # Screenshot Organizer (Works on macOS only)
 Python script for automating the screenshot folder for Google Calendar Events.
 
+Check out YouTube video about this script: https://www.youtube.com/watch?v=C0qgcsRvsOs
+
 ## Running the script:
 
 1. Install dependencies:
